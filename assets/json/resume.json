@@ -15,24 +15,21 @@
       "institution": "University of Illinois at Urbana-Champaign",
       "area": "Psychology",
       "studyType": "PhD",
-      "startDate": "2019-08",
-      "GPA": "4.0"
+      "startDate": "2019-08"
     },
     {
       "institution": "University of Illinois at Urbana-Champaign",
       "area": "Applied Statistics",
       "studyType": "Master Science",
       "startDate": "2022-08",
-      "endDate": "2024-08",
-      "GPA": "4.0"
+      "endDate": "2024-08"
     },
     {
       "institution": "University of Illinois at Urbana-Champaign",
       "area": "Psychological Science",
       "studyType": "Master Science",
       "startDate": "2017-08",
-      "endDate": "2019-06",
-      "GPA": "4.0"
+      "endDate": "2019-06"
     },
     {
       "institution": "National Taiwan Univeristy, Taipei, Taiwan",
@@ -206,6 +203,5 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-    
   ]
 }
