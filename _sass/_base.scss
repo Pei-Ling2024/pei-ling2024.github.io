@@ -26,7 +26,7 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+    font-size: 2rem;
     padding: 1px 1rem 1px 0;
   }
 
@@ -471,6 +471,7 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
+  font-size: 2rem;
 
   .card {
     background-color: var(--global-card-bg-color);
@@ -690,9 +691,6 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-
-      .preview {
-      }
 
       .abbr {
         margin-bottom: 0.5rem;
