@@ -37,10 +37,12 @@ Categorization is a fundamental cognitive process that underlies many cognitive 
 Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we extend the exploration to natural scenes that contain both objects and the relationships among them.
 </span>
 
+
 <iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
+  src="https://beckaplab.web.illinois.edu/PL_data/Same-different.html"
+  style="width:100%; height:500px;"
 ></iframe>
+
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
