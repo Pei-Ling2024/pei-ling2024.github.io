@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What makes a good scene good? 
-description: 
+title: What makes a good scene good?
+description:
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -9,6 +9,7 @@ related_publications: false
 ---
 
 # Goal
+
 <span style="font-size:24px">
 This project aims to understand which features are considered more diagnostic of the categories from a human vision perspective. Humans can tell which items are more typical than others. For example, most people would agree that the first beach (on the left) is more typical than the second beach (on the right). Both beaches were generated using DALL-E. This project wants to investigate the diagnostic features underlying these decisions.
 </span>
@@ -21,8 +22,8 @@ This project aims to understand which features are considered more diagnostic of
     </div>
 </div>
 
-
 # Background
+
 <span style="font-size:24px">
 Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). Over the past sixty years, modern psychology has been exploring the structure of categories in the human mind. Understanding category structure involves studying how each member of a category is represented in our minds and arranged in some way. For instance, you might represent animals in terms of their size and whether they are predators. The space constructed by the dimensions of size and predator is the category space of the animal category.
 </span>
@@ -51,10 +52,12 @@ Here's the code for the last row of images above:
 ```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/6.jpg" title="example image"
+    class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/11.jpg" title="example image"
+    class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 ```
