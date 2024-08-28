@@ -95,6 +95,44 @@
         - title: Roles
           contents:
             - operate EEG and collect EEG data, EEG data pre-processing, edit manuscript
+            
+- title: Selected Oral Presentations
+  type: time_table
+  contents:
+    - title: Reliability and validity of categorization tasks
+      year: 2024
+      description:
+        - Yang, P. L., & Beck, D. M. (2024).
+        - oral presentation in the Attention and Perception division preseminar of University of Illinois, Urbana-Champaign
+    - title: What feature spaces best capture human scene category space?
+      year: 2023
+      description:
+        - Yang, P. L., & Beck, D. M. (2023).
+        - oral presentation in the Attention and Perception division preseminar of University of Illinois, Urbana-Champaign
+    - title: Time stays still under blue light Subjective time expansion with increased ipRGC stimulation
+      year: 2017
+      description:
+        - Yang, P. L., Tsujimura, S., Matsumoto, A., Yamashita, W., & Yeh, S. L. (2017).
+        - oral presentation in the 17th Asia Pacific Conference on Vision (APCV), Tainan, Taiwan.
+
+- title: Selected Poster Presentations
+  type: time_table
+  contents:
+    - title: A comparison of tasks for constructing the category space of natural scenes
+      year: 2024
+      description:
+        - Yang, P. L., & Beck, D. M. (2024).
+        - poster presentation in the 24th Annual Meeting of the Vision Sciences Society (VSS, 2023), St. Pete Beach, Florida, U.S.A
+    - title: The similarity of CNN, behavioral, and PPA feature spaces
+      year: 2023
+      description:
+        - Yang, P. L., & Beck, D. M. (2023).
+        - poster presentation in the 23th Annual Meeting of the Vision Sciences Society (VSS, 2023), St. Pete Beach, Florida, U.S.A
+    - title: Familiarity influences perception: Famous and Inverted Faces and Logos
+      year: 2021
+      description:
+        - Yang, P. L., & Beck, D. M. (2021).
+        - poster presentation in the 29th Annual Meeting of Object Perception, visual Attention, and visual Memory (V-OPAM, 2021)
 
 - title: Experience
   type: time_table
