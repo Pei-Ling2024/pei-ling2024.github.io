@@ -62,12 +62,39 @@
           contents:
             - design experiments, program experiments in python and javascript, collect data
             - analyze data in R, write and submit manuscript
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Typical viewpoints of objects are better detected than atypical ones
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Center, E. G., Gephart, A. M., Yang, P. L., & Beck, D. M. (2022).
+        - Journal of vision, 22(12), 1-1.
+        - title: Roles
+          contents:
+            - collect data, analyze data in R, summarize the results
+     - title: Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots
+      year: 2019
+      description:
+        - Chien, S. E., Chu, L., Lee, H. H., Yang, C. C., Lin, F. H., Yang, P. L., ... & Yeh, S. L. (2019)
+        - ACM Transactions on Human-Robot Interaction (THRI), 8(2), 1-19.
+        - title: Roles
+          contents:
+            - collect data, summarize the results
+     - title: Subjective time expansion with increased stimulation of intrinsically photosensitive retinal ganglion cells.
+      year: 2018
+      description:
+        - Yang, P. L., Tsujimura, S. I., Matsumoto, A., Yamashita, W., & Yeh, S. L. (2018).
+        - Scientific reports, 8(1), 11693.
+        - title: Roles
+          contents:
+            - design experiments, program experiments in eprime, 
+            - collect data, analyze data in R, write and submit manuscript
+     - title: Role of consciousness in temporal integration of semantic information.
+      year: 2017
+      description:
+        - Yang, Y. H., Tien, Y. H., Yang, P. L., & Yeh, S. L. (2017).
+        - Cognitive, Affective, & Behavioral Neuroscience, 17, 954-972.
+        - title: Roles
+          contents:
+            - operate EEG and collect EEG data, EEG data pre-processing, edit manuscript
 
 - title: Experience
   type: time_table
