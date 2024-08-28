@@ -90,7 +90,10 @@
       "name": "Software",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Adobe Illustrator", "Canvas"]
+      "keywords": [
+        "Adobe Illustrator", 
+        "Canvas"
+      ]
     }
   ],
   "work": [
