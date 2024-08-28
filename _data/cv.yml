@@ -51,7 +51,7 @@
         - Canvas
 
 - title: Peer-Review Research Articles
-  type: nested_list
+  type: nested_list_2
   contents:
     - title: Familiarity influences visual detection in a task that does not require explicit recognition.
       items:
