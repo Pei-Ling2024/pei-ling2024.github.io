@@ -9,21 +9,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctoral candidate
-      institution: Department of Psychology, University of Illinois Urbana-Champaign
+    - title: Doctoral candidate in Psychology
+      institution: Department of Psychology, University of Illinois Urbana-Champaign (GPA: 4.0/4.0)
       year: 2019 - present
-      description:
-        - GPA (4.0/4.0).
-    - title: Applied M.S.
-      institution: Department of Statistics, University of Illinois Urbana-Champaign
+    - title: Applied M.S. in Statistics
+      institution: Department of Statistics, University of Illinois Urbana-Champaign (GPA: 4.0/4.0)
       year: 2024
-      description:
-        - GPA (4.0/4.0).
-    - title: Psychological Science M.S.
-      institution: Department of Psychology, University of Illinois Urbana-Champaign
+    - title: Psychological Science M.S. in Psychology
+      institution: Department of Psychology, University of Illinois Urbana-Champaign (GPA: 4.0/4.0)
       year: 2019
-      description:
-        - GPA (4.0/4.0).
     - title: B.S.
       institution: Department of Psychology, National Taiwan University
       year: 2017
@@ -33,29 +27,43 @@
   contents:
     - title: Programming
       items:
-        - R.
-        - E-Prime.
-        - MATLAB (psychotoolbox).
-        - Latex.
-        - Javascript (jsPsych).
-        - python.
-        - SPSS.
+        - R
+        - E-Prime
+        - MATLAB (psychotoolbox)
+        - Latex
+        - Javascript (jsPsych)
+        - python
+        - SPSS
     - title: Research
       items:
-        - Experiment design.
-        - Data analysis and visualization.
+        - Experiment design
+        - Data analysis and visualization
     - title: Statistics
       items:
-        - Hypothesis testing.
-        - Cross Validation, Bootstrapping.
-        - Factor Analysis, Structural Equation Model.
-        - Cluster Analyses.
-        - Hierarchical Linear Model.
+        - Hypothesis testing
+        - Cross Validation, Bootstrapping
+        - Factor Analysis, Structural Equation Model
+        - Cluster Analyses
+        - Hierarchical Linear Model
     - title: Software
       items:
-        - Adobe Illustrator.
-        - Canvas.
-
+        - Adobe Illustrator
+        - Canvas
+        
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Peer-Review Research Articles
+      items:
+        - Yang, P. L., & Beck, D. M. (2023). Familiarity influences visual detection in a task that does not require
+explicit recognition. Attention, Perception, & Psychophysics, 85(4), 1127-1149.
+doi.org/10.3758/s13414-023-02703-7
+        - 'Roles': design experiments, program experiments in python and javascript, collect data, analyze data
+in R, write and submit manuscript
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 - title: Experience
   type: time_table
   contents:
