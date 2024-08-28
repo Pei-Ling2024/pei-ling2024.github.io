@@ -70,7 +70,7 @@
         - title: Roles
           contents:
             - collect data, analyze data in R, summarize the results
-     - title: Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots
+    - title: Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots
       year: 2019
       description:
         - Chien, S. E., Chu, L., Lee, H. H., Yang, C. C., Lin, F. H., Yang, P. L., ... & Yeh, S. L. (2019)
@@ -78,16 +78,16 @@
         - title: Roles
           contents:
             - collect data, summarize the results
-     - title: Subjective time expansion with increased stimulation of intrinsically photosensitive retinal ganglion cells.
+    - title: Subjective time expansion with increased stimulation of intrinsically photosensitive retinal ganglion cells.
       year: 2018
       description:
         - Yang, P. L., Tsujimura, S. I., Matsumoto, A., Yamashita, W., & Yeh, S. L. (2018).
         - Scientific reports, 8(1), 11693.
         - title: Roles
           contents:
-            - design experiments, program experiments in eprime, 
+            - design experiments, program experiments in eprime,
             - collect data, analyze data in R, write and submit manuscript
-     - title: Role of consciousness in temporal integration of semantic information.
+    - title: Role of consciousness in temporal integration of semantic information.
       year: 2017
       description:
         - Yang, Y. H., Tien, Y. H., Yang, P. L., & Yeh, S. L. (2017).
