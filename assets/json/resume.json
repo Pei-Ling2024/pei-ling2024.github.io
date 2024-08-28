@@ -51,7 +51,7 @@
       "endDate": "2017-06"
     }
   ],
-    "work": [
+  "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -68,7 +68,7 @@
       "publisher": "Attention, Perception, & Psychophysics",
       "releaseDate": "2023",
       "url": "https://link.springer.com/article/10.3758/s13414-023-02703-7",
-      "roles": "design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript"
+      "summary": "Roles: design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript"
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
