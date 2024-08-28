@@ -56,7 +56,7 @@
     - title: Peer-Review Research Articles
       items:
         - Yang, P. L., & Beck, D. M. (2023). Familiarity influences visual detection in a task that does not require explicit recognition. Attention, Perception, & Psychophysics, 85(4), 1127-1149. doi.org/10.3758/s13414-023-02703-7
-        - 'Roles': design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript
+        - [Roles] design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript
     - title: Topic 2.
       items:
         - Description 1.
