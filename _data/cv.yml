@@ -56,8 +56,8 @@
     - title: Familiarity influences visual detection in a task that does not require explicit recognition.
       year: 2023
       description:
-        - [author] Yang, P. L., & Beck, D. M. (2023).
-        - [journal] Attention, Perception, & Psychophysics, 85(4), 1127-1149
+        - Yang, P. L., & Beck, D. M. (2023).
+        - Attention, Perception, & Psychophysics, 85(4), 1127-1149
         - title: Roles
           contents:
             - design experiments, program experiments in python and javascript, collect data
