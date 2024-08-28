@@ -2,7 +2,7 @@
 layout: page
 title: What makes a good scene good?
 description:
-img: assets/img/12.jpg
+img: assets/img/animal.png
 importance: 1
 category: work
 related_publications: false
@@ -22,7 +22,7 @@ This project aims to understand which features are considered more diagnostic of
     </div>
 </div>
 
----
+<hr style="height:2px;background:grey">
 
 # Background
 
@@ -36,36 +36,41 @@ Categorization is a fundamental cognitive process that underlies many cognitive 
 </div>
 
 <span style="font-size:24px">
-Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we extend the exploration to natural scenes that contain both objects and the relationships among them.
+Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we further extend the exploration to natural scenes (e.g., beach, city, highway) that contain both objects and the relationships among them.
 </span>
 
----
+<hr style="height:2px;background:grey">
 
 # Method
-<span style="font-size:24px">
-Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we extend the exploration to natural scenes that contain both objects and the relationships among them.
-</span>
+To investigate the complex real-life scenes, we leverage the ability of deep neural network models (DNNs) extracting category information. DNNs have demonstrated superior classification performance in the past decate. Several studies have also shown the correlations between the DNN layer activations and nural activities (Yamin et al., 2014). 
 
 
 
----
+<hr style="height:2px;background:grey">
 
 # Results
+Following is a category space derived from 
 <iframe
   src="https://beckaplab.web.illinois.edu/PL_data/Same-different.html"
   style="width:100%; height:500px;"
 ></iframe>
 
+<iframe
+  src="https://beckaplab.web.illinois.edu/PL_data/placenet_cluster.html"
+  style="width:100%; height:500px;"
+></iframe>
 
 
-
----
+<hr style="height:2px;background:grey">
 
 # Implications
 
 
 
 
----
+<hr style="height:2px;background:grey">
 
 # Presentations and Publications
+This project has been presented at [Vision Science Society Annual Meeting in 2023](https://jov.arvojournals.org/article.aspx?articleid=2791846) and also presented at the proseminar at Psychology Department at University of Illinois at Urbana-Champaign.
+
+
