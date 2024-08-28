@@ -1,17 +1,26 @@
 ---
 layout: page
-title: How do human categorize? 
+title: What makes a good scene good? 
 description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 # Goal
-<span style="font-size:20px">
-    markdown color font styles
+<span style="font-size:24px">
+    This project aims at understanding how humans extract the information from complex scenes. That is, humans are capbable of 
 </span>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 # Background
 <div class="row">
