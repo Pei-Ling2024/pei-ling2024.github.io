@@ -90,21 +90,7 @@
       "name": "Software",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Adobe Illustrator", 
-        "Canvas"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "keywords": ["Adobe Illustrator", "Canvas"]
     }
   ],
   "publications": [
@@ -142,6 +128,63 @@
       "releaseDate": "2017",
       "url": "https://link.springer.com/article/10.3758/s13415-017-0525-9",
       "summary": "Roles: operate EEG and collect EEG data, EEG data pre-processing, edit manuscript"
+    }
+  ],
+  "oral presentation": [
+    {
+      "name": "Reliability and validity of categorization tasks",
+      "publisher": "oral presentation in the Attention and Perception division preseminar of University of Illinois, Urbana-Champaign",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "What feature spaces best capture human scene category space?",
+      "publisher": "oral presentation in the Attention and Perception division preseminar of University of Illinois, Urbana-Champaign",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "What makes a representative exemplar representative?",
+      "publisher": "oral presentation in the Attention and Perception division preseminar of University of Illinois, Urbana-Champaign",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Time stays still under blue light: Subjective time expansion with increased ipRGC stimulation",
+      "publisher": "oral presentation in the 17th Asia Pacific Conference on Vision (APCV), Tainan, Taiwan",
+      "releaseDate": "2017",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "selected poster presentation": [
+    {
+      "name": "A comparison of tasks for constructing the category space of natural scenes",
+      "publisher": "poster presentation in the 24th Annual Meeting of the Vision Sciences Society (VSS, 2024), St. Pete Beach, Florida, U.S.A",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "The similarity of CNN, behavioral, and PPA feature spaces",
+      "publisher": "poster presentation in the 23th Annual Meeting of the Vision Sciences Society (VSS, 2023), St. Pete Beach, Florida, U.S.A",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "research experience": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "languages": [
