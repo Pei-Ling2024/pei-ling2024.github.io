@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Pei-Ling Yang",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "plyang2@illinois.edu",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -47,15 +47,31 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Illinois at Urbana-Champaign",
+      "area": "Psychology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-08"
+    },
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "area": "Applied Statistics",
+      "studyType": "Master Science",
+      "startDate": "2022-08",
+      "endDate": "2024-08"
+    },
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "area": "Psychological Science",
+      "studyType": "Master Science",
+      "startDate": "2017-08",
+      "endDate": "2019-06"
+    },
+    {
+      "institution": "National Taiwan Univeristy, Taipei, Taiwan",
+      "area": "Psychology",
+      "studyType": "Bachlor Science",
+      "startDate": "2013-08",
+      "endDate": "2017-06"
     }
   ],
   "awards": [
