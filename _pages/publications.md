@@ -7,16 +7,60 @@ nav: true
 nav_order: 3
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+
 ## Peer-Review Research Articles
 
 <span style="font-size:24px">
 **Yang, P. L.**, & Beck, D. M. (2023). [Familiarity influences visual detection in a task that does not require explicit recognition](doi.org/10.3758/s13414-023-02703-7). *Attention, Perception, & Psychophysics, 85*(4), 1127-1149. doi.org/10.3758/s13414-023-02703-7  
-<p style="color:blue">Roles</p>: design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript
+</span>
+<span style="font-size:24px">
+<span style='color: blue;'>Roles</span>: design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript  
 </span>
 
+
 <span style="font-size:24px">
-Center, E. G., Gephart, A. M., **Yang, P. L.**, & Beck, D. M. (2022). [Typical viewpoints of objects are better detected than atypical ones](doi:https://doi.org/10.1167/jov.22.12.1). *Journal of vision, 22*(12), 1-1. doi:https://doi.org/10.1167/jov.22.12.1  
-<p style="color:blue">Roles</p>: collect data, analyze data in R, summarize the results
+Center, E. G., Gephart, A. M., **Yang, P. L.**, & Beck, D. M. (2022). [Typical viewpoints of objects are better detected than atypical ones](doi:https://doi.org/10.1167/jov.22.12.1). *Journal of vision, 22*(12), 1-1. doi:https://doi.org/10.1167/jov.22.12.1 
+<span style='color: blue;'>Roles</span>: collect data, analyze data in R, summarize the results
 </span>
 
 <span style="font-size:24px">
