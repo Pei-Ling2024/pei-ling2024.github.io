@@ -45,6 +45,7 @@ Past research on human categorization has mainly focused on artificial objects (
 <hr style="height:2px;background:grey">
 
 # Method
+
 <span style="font-size:24px">
 The first step we took is to calculate the correlations between the feature spaces from DNNs and human category space. To obtain the human category space, participants performed a same-different categorization task. Using a Multidimensional Scaling (MDS) visualization technique, we constructed the human category space (e.g., see Results) based on the responses to the same/different task. Next, we applied pre-trained neural networks (Zhou et al., 2017) to the same set of natural images and the resulting category representation were constructed by applying MDS on the layer activations. We then use the feature spaces of the neural network model to predict the human category space generated from categorization task.  
 </span>
@@ -52,6 +53,7 @@ The first step we took is to calculate the correlations between the feature spac
 <hr style="height:2px;background:grey">
 
 # Results
+
 <span style="font-size:24px">
 Followings are the category spaces from human categorization task (upper) and from the last layer of DNNs (lower). As shown in the space, results showed that the human category space constructed from the categorization task was not predicted well by any feature space produced from the models.
 </span>
@@ -66,10 +68,10 @@ Followings are the category spaces from human categorization task (upper) and fr
   style="width:100%; height:500px;"
 ></iframe>
 
-
 <hr style="height:2px;background:grey">
 
 # Implications
+
 <span style="font-size:24px">
 This work not only explores the limitations of DNNs as models of the human mind, but also provides possible directions to increase efficiency and robustness of DNNs by leveraging the mechanisms of the human minds
 </span>
@@ -77,7 +79,7 @@ This work not only explores the limitations of DNNs as models of the human mind,
 <hr style="height:2px;background:grey">
 
 # Presentations and Publications
+
 <span style="font-size:24px">
 This project has been presented at [Vision Science Society Annual Meeting in 2023](https://jov.arvojournals.org/article.aspx?articleid=2791846) and also presented at the proseminar at Psychology Department at University of Illinois at Urbana-Champaign.
 </span>
-
