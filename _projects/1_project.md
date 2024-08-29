@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What makes a good scene good?
+title: What makes a good scene good using DNNs?
 description:
 img: assets/img/animal.png
 importance: 1
@@ -11,7 +11,7 @@ related_publications: false
 # Goal
 
 <span style="font-size:24px">
-This project aims to understand which features are considered more diagnostic of the categories from a human vision perspective. Humans can tell which items are more typical than others. For example, most people would agree that the first beach (on the left) is more typical than the second beach (on the right). Both beaches were generated using DALL-E. This project wants to investigate the diagnostic features underlying these decisions.
+This project aims to examine whether . That is, humans can tell which items are more typical than others. For example, most people would agree that the first beach (on the left) is more typical than the second beach (on the right). Both beaches were generated using DALL-E. This project wants to investigate the diagnostic features underlying these decisions.
 </span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,7 +27,7 @@ This project aims to understand which features are considered more diagnostic of
 # Background
 
 <span style="font-size:24px">
-Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). Over the past sixty years, modern psychology has been exploring the structure of categories in the human mind. Understanding category structure involves studying how each member of a category is represented in our minds and arranged in some way. For instance, you might represent animals in terms of their size and whether they are predators. The space constructed by the dimensions of size and predator is the category space of the animal category.
+Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). Over the past sixty years, modern psychology has been exploring the structure of categories in the human mind. Understanding category structure involves studying how each member of a category is represented in our minds and arranged in some way. For instance, you might represent animals in terms of their size and whether they are predators. The space constructed by the dimensions of size and predator is the category space of the animal category in this example.
 </span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,20 +36,24 @@ Categorization is a fundamental cognitive process that underlies many cognitive 
 </div>
 
 <span style="font-size:24px">
-Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we further extend the exploration to natural scenes (e.g., beach, city, highway) that contain both objects and the relationships among them.
+Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we further extend the exploration to natural scenes (e.g., beach, city, highway) that contain both objects and the relationships among them. 
 </span>
 
 <hr style="height:2px;background:grey">
 
 # Method
-To investigate the complex real-life scenes, we leverage the ability of deep neural network models (DNNs) extracting category information. DNNs have demonstrated superior classification performance in the past decate. Several studies have also shown the correlations between the DNN layer activations and nural activities (Yamin et al., 2014). 
+<span style="font-size:24px">
 
-
+Participants performed a same-different categorization task. Using a Multidimensional Scaling (MDS) visualization technique, we constructed the human category space (e.g., see Results) based on the responses to the same/different task. Next, we applied pre-trained neural networks (Zhou et al., 2017) to the same set of natural images and the resulting category representation were constructed by applying MDS on the layer activations. We then use the feature spaces of the neural network model to predict the human category space generated from categorization task.  
+</span>
 
 <hr style="height:2px;background:grey">
 
 # Results
-Following is a category space derived from 
+<span style="font-size:24px">
+Results showed that the human category space constructed from the categorization task was not predicted well by any feature space produced from the models.
+</span>
+
 <iframe
   src="https://beckaplab.web.illinois.edu/PL_data/Same-different.html"
   style="width:100%; height:500px;"
@@ -64,13 +68,14 @@ Following is a category space derived from
 <hr style="height:2px;background:grey">
 
 # Implications
-
-
-
+<span style="font-size:24px">
+This work not only explores the limitations of DNNs as models of the human mind, but also provides possible directions to increase efficiency and robustness of DNNs by leveraging the mechanisms of the human minds
+</span>
 
 <hr style="height:2px;background:grey">
 
 # Presentations and Publications
+<span style="font-size:24px">
 This project has been presented at [Vision Science Society Annual Meeting in 2023](https://jov.arvojournals.org/article.aspx?articleid=2791846) and also presented at the proseminar at Psychology Department at University of Illinois at Urbana-Champaign.
-
+</span>
 
