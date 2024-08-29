@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 # Publications
+
 ## Peer-Review Research Articles
 
 <span style="font-size:24px">
@@ -50,6 +51,7 @@ Roles: Fit and train SVM models, extract CNN model weights, analyze data in R, w
 <hr style="height:2px;background:grey">
 
 # Conference papers and presentations
+
 ## Oral presentations
 
 <span style="font-size:24px">
@@ -97,6 +99,3 @@ Roles: Fit and train SVM models, extract CNN model weights, analyze data in R, w
 <span style="font-size:24px">
 **Yang, P. L.**, Tsujimura, S., Matsumoto, A., Yamashita, W., & Yeh, S. L. (2018). Subjective time expansion with increased stimulation of intrinsically photosensitive retinal ganglion cells, poster presentation in the 41th European Conference on Visual Perception (ECVP)
 </span>
-
-
-
