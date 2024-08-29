@@ -20,7 +20,7 @@ a.btncv {
   padding-bottom: 0.25rem;
   text-decoration: none;
   font-weight: 400;
-  font-size: 0.7rem;
+  font-size: 1rem;
   text-align: center;
   vertical-align: middle;
   text-transform: uppercase;
@@ -38,24 +38,24 @@ a.btncv:hover {
  *****************************/
 
 p.location {
-  font-size: 0.7rem;
+  font-size: 1rem;
   white-space: nowrap;
 }
 
 i.iconlocation {
   color: var(--global-theme-color);
-  font-size: 0.8rem;
+  font-size: 1.1rem;
 }
 
 i.iconinstitution {
   color: var(--global-theme-color);
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   margin-right: 0.3rem;
 }
 
 i.icondepartment {
   color: var(--global-theme-color);
-  font-size: 0.8rem;
+  font-size: 1.1rem;
   margin-right: 0.3rem;
 }
 
@@ -64,7 +64,7 @@ table.institution {
 }
 
 td.department {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 div.container-links {
