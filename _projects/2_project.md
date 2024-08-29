@@ -25,7 +25,6 @@ The goal of this project is to understand whether prior knowledge can influence 
     These are sample stimuli from [Greene et al (2015)](https://link.springer.com/article/10.3758/s13414-015-0859-8)
 </span>
 
-
 <hr style="height:2px;background:grey">
 
 # Background
@@ -50,7 +49,6 @@ On the other hand, several studies, including our own work, have shown that our 
 <span style="font-size:18px">
     This image cropped from [Peterson (1994)](https://doi.org/10.1111/1467-8721.ep10770552) Fig. 3. 
 </span>
-
 
 <hr style="height:2px;background:grey">
 
