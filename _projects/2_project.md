@@ -11,32 +11,48 @@ giscus_comments: false
 # Goal
 
 <span style="font-size:24px">
-The goal of this project is to understand whether prior knowledge can influence the sensitivity of visual detection. 
+The goal of this project is to understand whether prior knowledge can influence the sensitivity of visual detection. As humans live in the world, they have picked up various regularities to form expectations about their surroundings. For example, most of us would expect to see the image on the left (or upper) in an airport rather than the image on the right (or lower). In this project, we focused on how familiarity influences the detection of rapidly flashed stimuli.
 </span>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/44_normal.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/44_odd.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <hr style="height:2px;background:grey">
 
 # Background
 
 <span style="font-size:24px">
-Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). Over the past sixty years, modern psychology has been exploring the structure of categories in the human mind. Understanding category structure involves studying how each member of a category is represented in our minds and arranged in some way. For instance, you might represent animals in terms of their size and whether they are predators. The space constructed by the dimensions of size and predator is the category space of the animal category in this example.
+How prior experience influences human behaviors has been a popular topic across many divisions in Psychology, such as the own race effect in social psychology. But, whether these prior experiences can affect human perception is still up for debate. Some reserchers (e.g., Firestone & Scholl, 2016) argued that low-level perception, the ones happening at retina or at the primary visual cortex, is not influenced by our experiences. For example, visual illusions (e.g., Stepping feet illusion: seeing two blocks 'step' asynchrously but in fact they are moving simultenously) are still effective even if we know that they are results of our visual system.
+</span>
+
+<iframe
+  src="https://michaelbach.de/ot/mot-feetLin/index.html"
+  style="width:100%; height:500px;"
+></iframe>
+
+<span style="font-size:24px">
+On the other hand, several studies, including our own work, have shown that our perception can be influenced by prior experiences. Peterson (1994) summarized her work on how experience (i.e., object recognition) can precede figure-ground organization. As you can see, most people will consider the black areas as more dominant than the white areas. This is because the black areas are recognizable objects while the white areas are not. This effect will not occur if object recognition does not precede figure-ground segregation.
 </span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/animal.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/figure-ground.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<span style="font-size:24px">
-Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we further extend the exploration to natural scenes (e.g., beach, city, highway) that contain both objects and the relationships among them. 
-</span>
+<div class="caption">
+    This image cropped from [Peterson (1994)](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770552?casa_token=v_swWGD1eMgAAAAA:EBhLLiy_FU2vp96f3Jh1tmzC9huKnIYCDoXhWbClXj8mBCPsCe2bOHKzUZCGKeLdveCE6a3LNV4KXHA) Fig. 3. 
+</div>
 
 <hr style="height:2px;background:grey">
 
 # Method
 
 <span style="font-size:24px">
-    f
+In this project, we adopted an intact-scrambled task. This task only requires participants to respond whether a rapidly flashed image is an intact image or a scrambled image. 
 </span>
 
 <hr style="height:2px;background:grey">
@@ -44,5 +60,19 @@ Past research on human categorization has mainly focused on artificial objects (
 # Results
 
 <span style="font-size:24px">
-Followings are the category spaces from human categorization task (upper) and from the last layer of DNNs (lower). As shown in the space, results showed that the human category space constructed from the categorization task was not predicted well by any feature space produced from the models.
+
+</span>
+
+# Implications
+
+<span style="font-size:24px">
+
+</span>
+
+<hr style="height:2px;background:grey">
+
+# Presentations and Publications
+
+<span style="font-size:24px">
+This project has been published in [Attention, Perception, & Psychophysics, 2023](https://link.springer.com/article/10.3758/s13414-023-02703-7), presented at [Vision Science Society Annual Meeting in 2021](https://jov.arvojournals.org/article.aspx?articleid=2776956) and also presented at the proseminar at Psychology Department at University of Illinois at Urbana-Champaign.
 </span>
