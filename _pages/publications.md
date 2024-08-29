@@ -12,16 +12,12 @@ nav_order: 3
 <span style="font-size:24px">
 **Yang, P. L.**, & Beck, D. M. (2023). [Familiarity influences visual detection in a task that does not require explicit recognition](https://link.springer.com/article/10.3758/s13414-023-02703-7). *Attention, Perception, & Psychophysics, 85*(4), 1127-1149.
 </span>
-<span style="font-size:24px">
-- *Roles*: design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript  
-</span>
+- <span style="font-size:24px">*Roles*: design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript  </span>
 
 <span style="font-size:24px">
 Center, E. G., Gephart, A. M., **Yang, P. L.**, & Beck, D. M. (2022). [Typical viewpoints of objects are better detected than atypical ones](https://jov.arvojournals.org/article.aspx?articleid=2783815). *Journal of vision, 22*(12), 1-1.   
 </span>
-<span style="font-size:24px"> 
-- *Roles*: collect data, analyze data in R, summarize the results
-</span>
+- <span style="font-size:24px">*Roles*: collect data, analyze data in R, summarize the results </span>
 
 <span style="font-size:24px">
 Chien, S. E., Chu, L., Lee, H. H., Yang, C. C., Lin, F. H., **Yang, P. L.**, ... & Yeh, S. L. (2019). [Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots](https://dl.acm.org/doi/abs/10.1145/3311788). *ACM Transactions on Human-Robot Interaction (THRI), 8*(2), 1-19.   
