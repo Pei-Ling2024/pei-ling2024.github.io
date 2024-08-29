@@ -20,7 +20,7 @@ Center, E. G., Gephart, A. M., **Yang, P. L.**, & Beck, D. M. (2022). [Typical v
 </span>
 
 <span style="font-size:24px">
-Chien, S. E., Chu, L., Lee, H. H., Yang, C. C., Lin, F. H., Yang, P. L., ... & Yeh, S. L. (2019). [Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots](https://dl.acm.org/doi/abs/10.1145/3311788). *ACM Transactions on Human-Robot Interaction (THRI), 8*(2), 1-19.  
+Chien, S. E., Chu, L., Lee, H. H., Yang, C. C., Lin, F. H., **Yang, P. L.**, ... & Yeh, S. L. (2019). [Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots](https://dl.acm.org/doi/abs/10.1145/3311788). *ACM Transactions on Human-Robot Interaction (THRI), 8*(2), 1-19.  
 <p style="color:blue">Roles</p>: collect data, summarize the results
 </span>
 
