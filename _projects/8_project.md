@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Horizontal advantage in Posner's cueing paradigm
+title: What is the most reliable categorization task
 description:
 img: assets/img/9.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
