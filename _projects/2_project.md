@@ -22,7 +22,9 @@ The goal of this project is to understand whether prior knowledge can influence 
     </div>
 </div>
 <div class="caption">
-These are sample stimuli from [Greene et al (2015)](https://link.springer.com/article/10.3758/s13414-015-0859-8)
+    <span style="font-size:18px">
+        These are sample stimuli from [Greene et al (2015)](https://link.springer.com/article/10.3758/s13414-015-0859-8)
+    </span>
 </div>
 
 <hr style="height:2px;background:grey">
@@ -47,7 +49,9 @@ On the other hand, several studies, including our own work, have shown that our 
     </div>
 </div>
 <div class="caption">
-This image cropped from [Peterson (1994)](https://doi.org/10.1111/1467-8721.ep10770552) Fig. 3. 
+        <span style="font-size:18px">
+            This image cropped from [Peterson (1994)](https://doi.org/10.1111/1467-8721.ep10770552) Fig. 3. 
+        </span>
 </div>
 
 <hr style="height:2px;background:grey">
@@ -63,7 +67,9 @@ In this project, we adopted an intact-scrambled task. This task requires partici
     </div>
 </div>
 <div class="caption">
-This image is adopted from [Yang and Beck (2023)](https://link.springer.com/article/10.3758/s13414-023-02703-7)
+        <span style="font-size:18px">
+            This image is adopted from [Yang and Beck (2023)](https://link.springer.com/article/10.3758/s13414-023-02703-7)
+        </span>
 </div>
 <hr style="height:2px;background:grey">
 
