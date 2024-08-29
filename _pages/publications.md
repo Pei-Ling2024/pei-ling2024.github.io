@@ -12,35 +12,40 @@ nav_order: 3
 <span style="font-size:24px">
 **Yang, P. L.**, & Beck, D. M. (2023). [Familiarity influences visual detection in a task that does not require explicit recognition](https://link.springer.com/article/10.3758/s13414-023-02703-7). *Attention, Perception, & Psychophysics, 85*(4), 1127-1149.
 </span>
-<span style="font-size:24px">   
+
+<span style="font-size:24px">
 - *Roles*: design experiments, program experiments in python and javascript, collect data, analyze data in R, write and submit manuscript  
 </span>
 
 <span style="font-size:24px">
 Center, E. G., Gephart, A. M., **Yang, P. L.**, & Beck, D. M. (2022). [Typical viewpoints of objects are better detected than atypical ones](https://jov.arvojournals.org/article.aspx?articleid=2783815). *Journal of vision, 22*(12), 1-1.   
 </span>
-<span style="font-size:24px">   
+
+<span style="font-size:24px"> 
 - *Roles*: collect data, analyze data in R, summarize the results
 </span>
 
 <span style="font-size:24px">
 Chien, S. E., Chu, L., Lee, H. H., Yang, C. C., Lin, F. H., **Yang, P. L.**, ... & Yeh, S. L. (2019). [Age difference in perceived ease of use, curiosity, and implicit negative attitude toward robots](https://dl.acm.org/doi/abs/10.1145/3311788). *ACM Transactions on Human-Robot Interaction (THRI), 8*(2), 1-19.   
 </span>
-<span style="font-size:24px">   
+
+<span style="font-size:24px">
 - *Roles*: collect data, summarize the results
 </span>
 
 <span style="font-size:24px">
 **Yang, P. L.**, Tsujimura, S. I., Matsumoto, A., Yamashita, W., & Yeh, S. L. (2018). [Subjective time expansion with increased stimulation of intrinsically photosensitive retinal ganglion cells](https://www.nature.com/articles/s41598-018-29613-1). *Scientific reports, 8*(1), 11693.  
 </span>
-<span style="font-size:24px">   
+
+<span style="font-size:24px">  
 - *Roles*: design experiments, program experiments in eprime, collect data, analyze data in R, write and submit manuscript
 </span>
 
 <span style="font-size:24px">
 Yang, Y. H., Tien, Y. H., **Yang, P. L.**, & Yeh, S. L. (2017). [Role of consciousness in temporal integration of semantic information](https://link.springer.com/article/10.3758/s13415-017-0525-9). *Cognitive, Affective, & Behavioral Neuroscience, 17*, 954-972.   
 </span>
-<span style="font-size:24px">   
+
+<span style="font-size:24px">
 - *Roles*: operate EEG and collect EEG data, EEG data pre-processing, edit manuscript
 </span>
 
@@ -49,14 +54,16 @@ Yang, Y. H., Tien, Y. H., **Yang, P. L.**, & Yeh, S. L. (2017). [Role of conscio
 <span style="font-size:24px">
 Clevenger, J., **Yang, P. L.**, & Beck, D. M. (2019). [An advantage for targets located horizontally to the cued location](https://www.biorxiv.org/content/10.1101/740712v1.abstract). bioRxiv, 740712.  
 </span>
-<span style="font-size:24px">   
+
+<span style="font-size:24px">
 - *Roles*: design experiments, program experiments in Matlab, collect data, analyze data in R, write manuscript
 </span>
 
 <span style="font-size:24px">
 **Yang, P. L.**, & Beck, D. M. What makes good exemplars of a scene category good? Evidence from deep neural nets (in preparation)   
 </span>
-<span style="font-size:24px">   
+
+<span style="font-size:24px"> 
 - *Roles*: Fit and train SVM models, extract CNN model weights, analyze data in R, write manuscript
 </span>
 
