@@ -21,6 +21,9 @@ The goal of this project is to understand whether prior knowledge can influence 
         {% include figure.liquid loading="eager" path="assets/img/44_odd.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+These are sample stimuli from [Greene et al (2015)](https://link.springer.com/article/10.3758/s13414-015-0859-8)
+</div>
 
 <hr style="height:2px;background:grey">
 
@@ -44,7 +47,7 @@ On the other hand, several studies, including our own work, have shown that our 
     </div>
 </div>
 <div class="caption">
-    This image cropped from [Peterson (1994)](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770552?casa_token=v_swWGD1eMgAAAAA:EBhLLiy_FU2vp96f3Jh1tmzC9huKnIYCDoXhWbClXj8mBCPsCe2bOHKzUZCGKeLdveCE6a3LNV4KXHA) Fig. 3. 
+This image cropped from [Peterson (1994)](https://doi.org/10.1111/1467-8721.ep10770552) Fig. 3. 
 </div>
 
 <hr style="height:2px;background:grey">
@@ -52,21 +55,22 @@ On the other hand, several studies, including our own work, have shown that our 
 # Method
 
 <span style="font-size:24px">
-In this project, we adopted an intact-scrambled task. This task only requires participants to respond whether a rapidly flashed image is an intact image or a scrambled image. 
+In this project, we adopted an intact-scrambled task. This task requires participants to respond as to whether a rapidly flashed image is an intact image or a scrambled image. We manipulated whether the target image was a familiar item or not. Most importantly, familiarity with the item has **no** bearing on task performance.
 </span>
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Figure_procedure.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+This image is adopted from [Yang and Beck (2023)](https://link.springer.com/article/10.3758/s13414-023-02703-7)
+</div>
 <hr style="height:2px;background:grey">
 
 # Results
 
 <span style="font-size:24px">
-
-</span>
-
-# Implications
-
-<span style="font-size:24px">
-
+Results showed that participants can better detect familiar objects (logos and faces) and familiar orientation (upright or inverse) than unfamiliar artifitial objects. This result supports the idea that visual perception can be influenced by our prior experiences. We can detect something better when we expect to see them. 
 </span>
 
 <hr style="height:2px;background:grey">
