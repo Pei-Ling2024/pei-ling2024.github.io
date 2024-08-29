@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What makes a good scene good using DNNs?
+title: Do DNNs share similar category space as humans?
 description:
 img: assets/img/animal.png
 importance: 1
