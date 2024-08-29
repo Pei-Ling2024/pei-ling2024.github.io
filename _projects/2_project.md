@@ -21,11 +21,10 @@ The goal of this project is to understand whether prior knowledge can influence 
         {% include figure.liquid loading="eager" path="assets/img/44_odd.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    <span style="font-size:18px">
-        These are sample stimuli from [Greene et al (2015)](https://link.springer.com/article/10.3758/s13414-015-0859-8)
-    </span>
-</div>
+<span style="font-size:18px">
+    These are sample stimuli from [Greene et al (2015)](https://link.springer.com/article/10.3758/s13414-015-0859-8)
+</span>
+
 
 <hr style="height:2px;background:grey">
 
@@ -48,11 +47,10 @@ On the other hand, several studies, including our own work, have shown that our 
         {% include figure.liquid loading="eager" path="assets/img/figure-ground.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-        <span style="font-size:18px">
-            This image cropped from [Peterson (1994)](https://doi.org/10.1111/1467-8721.ep10770552) Fig. 3. 
-        </span>
-</div>
+<span style="font-size:18px">
+    This image cropped from [Peterson (1994)](https://doi.org/10.1111/1467-8721.ep10770552) Fig. 3. 
+</span>
+
 
 <hr style="height:2px;background:grey">
 
@@ -66,11 +64,10 @@ In this project, we adopted an intact-scrambled task. This task requires partici
         {% include figure.liquid loading="eager" path="assets/img/Figure_procedure.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
         <span style="font-size:18px">
             This image is adopted from [Yang and Beck (2023)](https://link.springer.com/article/10.3758/s13414-023-02703-7)
         </span>
-</div>
+
 <hr style="height:2px;background:grey">
 
 # Results
