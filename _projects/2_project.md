@@ -62,9 +62,9 @@ In this project, we adopted an intact-scrambled task. This task requires partici
         {% include figure.liquid loading="eager" path="assets/img/Figure_procedure.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-        <span style="font-size:18px">
-            This image is adopted from [Yang and Beck (2023)](https://link.springer.com/article/10.3758/s13414-023-02703-7)
-        </span>
+<span style="font-size:18px">
+    This image is adopted from [Yang and Beck (2023)](https://link.springer.com/article/10.3758/s13414-023-02703-7)
+</span>
 
 <hr style="height:2px;background:grey">
 
