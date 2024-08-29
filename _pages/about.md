@@ -17,6 +17,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
 <span style="font-size:24px">
 My name is Pei-Ling Yang. I am currently a doctoral student in the Department of Psychology at the University of Illinois Urbana-Champaign, under the supervision of Dr. Diane Beck.
 My research interest is in how humans understand complex real-world scenes and surroundings. When navigating the world, we interact with our environments, which encompass a large number of objects and their relations. Humans are somehow able to not only understand this vast amount of visual information but also infer possible actions within these environments. For example, we recognize that something is wrong when all the tables in a classroom are upside-down.
