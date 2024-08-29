@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Familiarity makes you see faster?
-description: 
+description:
 img: assets/img/25_320b.jpg
 importance: 2
 category: work
 giscus_comments: false
 ---
+
 # Goal
 
 <span style="font-size:24px">
@@ -33,6 +34,7 @@ Past research on human categorization has mainly focused on artificial objects (
 <hr style="height:2px;background:grey">
 
 # Method
+
 <span style="font-size:24px">
     f
 </span>
@@ -40,6 +42,7 @@ Past research on human categorization has mainly focused on artificial objects (
 <hr style="height:2px;background:grey">
 
 # Results
+
 <span style="font-size:24px">
 Followings are the category spaces from human categorization task (upper) and from the last layer of DNNs (lower). As shown in the space, results showed that the human category space constructed from the categorization task was not predicted well by any feature space produced from the models.
 </span>
