@@ -2,7 +2,7 @@
 layout: page
 title: Can DNNs reflect scene typicality?
 description:
-img: assets/img/4.jpg
+img: assets/img/good_beach.png
 importance: 1
 category: work
 related_publications: false
@@ -11,18 +11,18 @@ related_publications: false
 # Goal
 
 <span style="font-size:24px">
-The goals of this project 
+This project aims to test whether the information extracted from deep neural networks (DNNs) can reflect human scene typicality. Similar to the project [What Makes a Good Scene Good Using DNNs?](https://pei-ling2024.github.io/projects/1_project/), this project investigates the category information extracted from DNNs but focuses on scene typicality.
 </span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/good_beach.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/good_beach.png" title="good beach" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bad_beach.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bad_beach.png" title="bad beach" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Both beaches were generated using DALL-E.
+    The beach on the left or upper is more typical than the beach on the right or lower. Both beaches were generated using DALL-E.
 </div>
 
 <hr style="height:2px;background:grey">
