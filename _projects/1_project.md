@@ -11,7 +11,7 @@ related_publications: false
 # Goal
 
 <span style="font-size:24px">
-This project aims to examine whether . That is, humans can tell which items are more typical than others. For example, most people would agree that the first beach (on the left) is more typical than the second beach (on the right). Both beaches were generated using DALL-E. This project wants to investigate the diagnostic features underlying these decisions.
+The goals of this project are two-fold: 1) to understand the contribution of different visual features of natural scenes to human category representation and 2) determine the similarity of that feature space to that of Deep Neural Networks (DNNs). It has been well-established that humans can tell which items are more typical than others. For example, most people would agree that the first beach (on the left) is more typical than the second beach (on the right). In this project, we use DNNs to investigate which category features are extracted in human category representation construction. 
 </span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,6 +20,9 @@ This project aims to examine whether . That is, humans can tell which items are 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bad_beach.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Both beaches were generated using DALL-E.
 </div>
 
 <hr style="height:2px;background:grey">
@@ -50,7 +53,7 @@ The first step we took is to calculate the correlations between the feature spac
 
 # Results
 <span style="font-size:24px">
-Results showed that the human category space constructed from the categorization task was not predicted well by any feature space produced from the models.
+Followings are the category spaces from human categorization task (upper) and from the last layer of DNNs (lower). As shown in the space, results showed that the human category space constructed from the categorization task was not predicted well by any feature space produced from the models.
 </span>
 
 <iframe
