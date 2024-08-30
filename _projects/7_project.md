@@ -30,8 +30,7 @@ This project aims to test whether the information extracted from deep neural net
 # Background
 
 <span style="font-size:24px">
-Typicality is a prominent property in human category literature. It has been well-documented that the 
-Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we further extend the exploration to natural scenes (e.g., beach, city, highway) that contain both objects and the relationships among them. 
+Typicality is a prominent property in human category literature. Typicality is a property showing that members in the same category are not equally representive to the category. 
 </span>
 
 <hr style="height:2px;background:grey">
