@@ -472,6 +472,7 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
+  font-size: 20px;
 
   .card {
     background-color: var(--global-card-bg-color);
@@ -631,7 +632,7 @@ footer.sticky-bottom {
 
   .card {
     img {
-      width: 60%;
+      width: 50%;
     }
   }
 
@@ -641,7 +642,7 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 200px;
+    width: 160px;
     height: 40px;
     margin-bottom: 10px;
   }
