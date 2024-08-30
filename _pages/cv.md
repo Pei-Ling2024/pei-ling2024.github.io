@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-description: please click the icon on the side to download the pdf version
+description: <span style="font-size:20px">Please click the icon on the side to download the PDF version.</span>
 cv_pdf: CV.pdf
 toc:
   sidebar: left
