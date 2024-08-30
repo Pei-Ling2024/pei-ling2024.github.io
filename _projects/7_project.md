@@ -21,8 +21,8 @@ This project aims to test whether the information extracted from deep neural net
         {% include figure.liquid loading="eager" path="assets/img/bad_beach.png" title="bad beach" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    The beach on the left or upper is more typical than the beach on the right or lower. Both beaches were generated using DALL-E.
+<span style="font-size:20px">
+The beach on the left or upper is more typical than the beach on the right or lower. Both beaches were generated using DALL-E.
 </div>
 
 <hr style="height:2px;background:grey">
