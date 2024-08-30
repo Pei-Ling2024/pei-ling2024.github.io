@@ -1,28 +1,17 @@
 ---
 layout: page
-title: What is the most reliable categorization task
+title: Is there a best categorization task?
 description:
 img: assets/img/9.jpg
-importance: 3
+importance: 2
 category: work
 ---
 
 # Goal
 
 <span style="font-size:24px">
-The goals 
+To find a reliable representation for category members, this project aims at comparing different categorization tasks. 
 </span>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/good_beach.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bad_beach.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Both beaches were generated using DALL-E.
-</div>
 
 <hr style="height:2px;background:grey">
 
