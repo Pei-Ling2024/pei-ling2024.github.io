@@ -9,7 +9,6 @@ nav_order: 3
 
 ## Peer-Review Research Articles
 
-
 <span style="font-size:24px">
 **Yang, P. L.**, & Beck, D. M. (2023). [Familiarity influences visual detection in a task that does not require explicit recognition](https://link.springer.com/article/10.3758/s13414-023-02703-7). *Attention, Perception, & Psychophysics, 85*(4), 1127-1149.
 </span>
