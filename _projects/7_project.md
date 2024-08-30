@@ -30,7 +30,7 @@ The beach on the left or upper is more typical than the beach on the right or lo
 # Background
 
 <span style="font-size:24px">
-Typicality is a prominent property in human category literature. Typicality is a property showing that members in the same category are not equally representive to the category. 
+Typicality is a prominent property in human category literature. Typicality is a property showing that members in the same category are not equally representive to the category. Therefore, whether the representations of DNNs can reflect typicality could serve as a first test of whether DNNs capture similar information as human visual system.
 </span>
 
 <hr style="height:2px;background:grey">
