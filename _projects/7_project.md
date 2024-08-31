@@ -47,5 +47,5 @@ A one-exemplar training SVM method is used to determine the contribution of each
 # Results
 
 <span style="font-size:24px">
-Results showed that the CNN model that we tested can capture human typicality rating in all the layers. 
+Results showed that the CNN model that we tested can capture human typicality rating in all the layers, including the first. 
 </span>
