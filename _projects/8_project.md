@@ -40,6 +40,8 @@ Three categorization tasks are tested: arrangement task, same-different judgemen
 This is an on-going project. Preliminary results showed that the results of the arrangement task and the same-different judgment task are not highly correlated.
 </span>
 
+<hr style="height:2px;background:grey">
+
 # Presentations and Publications
 
 <span style="font-size:24px">
