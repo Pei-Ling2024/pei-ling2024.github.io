@@ -27,6 +27,8 @@ Categorization is a fundamental cognitive process that underlies many cognitive 
 
 <span style="font-size:24px">
 Three categorization tasks are tested: arrangement task, same-different judgement task, and odd-one-out task. 
+</span>
+<span style="font-size:24px">
 - Arrangement task: this task asks participants to arrange a set of items in terms of their similarity. The resulted 2-D arrangement serves as the category representation of that category.
 - Same-different judgement task: a pair of items appear side-by-side on the screen. Participants respond whether these two items are from the same category or not. The corresponded reaction time is used to inferred the similarity of the pairs of items.
 - Odd-one-out task: participants are required to choose an item that is the "odd" one out of three items. The probability of choosing as the "odd" one is served as the similarity of the items.
@@ -37,5 +39,5 @@ Three categorization tasks are tested: arrangement task, same-different judgemen
 # Results
 
 <span style="font-size:24px">
-Followings are the category spaces from human categorization task (upper) and from the last layer of DNNs (lower). As shown in the space, results showed that the human category space constructed from the categorization task was not predicted well by any feature space produced from the models.
+This is an on-going project. Preliminary results showed that the results of the arrangement task and the same-different judgment task are not highly correlated.
 </span>
