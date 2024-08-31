@@ -441,7 +441,7 @@ pre code {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
 }
 
 .no-gutters {
@@ -1092,7 +1092,8 @@ a.btn.disabled {
 }
 
 .card-title {
-    margin-bottom: .75rem
+    margin-bottom: .75rem;
+    padding-top: 2.5rem;
 }
 
 .card-text:last-child {
@@ -1870,7 +1871,7 @@ a.close.disabled {
 }
 
 .mb-4 {
-    margin-bottom: 1.5rem!important
+    margin-bottom: 1.5rem!important;
 }
 
 .mt-5 {
