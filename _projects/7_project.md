@@ -39,7 +39,7 @@ Typicality is a prominent property in human category literature. Typicality is a
 
 <span style="font-size:24px">
 We first extracted the layer activations from DNNs. Here, we chose PlaceNet, which is a CNN model that has the same archeteture as AlexNet but trained on scenes. 
-A one-exemplar training SVM method is used to determine the contribution of each image. That is, one image was trained per category at a time. Fun time!
+A one-exemplar training SVM method is used to determine the contribution of each image. That is, one image was trained per category at a time.
 </span>
 
 <hr style="height:2px;background:grey">
