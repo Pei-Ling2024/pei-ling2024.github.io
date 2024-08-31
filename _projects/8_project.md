@@ -18,7 +18,7 @@ To find a reliable representation for category members, comparing different cate
 # Background
 
 <span style="font-size:24px">
-Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). Over the past sixty years, modern psychology has been exploring the structure of categories in the human mind. Understanding category structure involves studying how each member of a category is represented in our minds and arranged in some way. For instance, you might represent animals in terms of their size and whether they are predators. The space constructed by the dimensions of size and predator is the category space of the animal category in this example.
+Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). To study how human categorize items, many tasks have been purposed. Most of the categorization results are inferred from the similarity measures. That is, 
 </span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
