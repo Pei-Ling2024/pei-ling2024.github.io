@@ -18,7 +18,7 @@ To find a reliable representation for category members, comparing different cate
 # Background
 
 <span style="font-size:24px">
-Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). To study how human categorize items, many tasks have been purposed. Most of the categorization results are inferred from the similarity measures. That is, 
+Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). To study how humans categorize items, many tasks have been proposed. Most categorization tasks are based on similarity measures. That is, when deciding whether an item belongs to a category, some psychologists assume that the similarity of the new item to either all the other members of that category (i.e., exemplar theory) or the mean of that category (i.e., prototype theory) is computed. The new item will be categorized as belonging to the category to which it has the highest similarity.
 </span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
