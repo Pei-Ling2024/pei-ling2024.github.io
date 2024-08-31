@@ -49,3 +49,9 @@ A one-exemplar training SVM method is used to determine the contribution of each
 <span style="font-size:24px">
 Results showed that the CNN model that we tested can capture human typicality rating in all the layers, including the first. 
 </span>
+
+# Presentations and Publications
+
+<span style="font-size:24px">
+This project has been presented at Vision Science Society Annual Meeting in 2021 and also presented at the proseminar at Psychology Department at University of Illinois at Urbana-Champaign.
+</span>
