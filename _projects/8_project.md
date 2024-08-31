@@ -26,7 +26,10 @@ Categorization is a fundamental cognitive process that underlies many cognitive 
 # Method
 
 <span style="font-size:24px">
-Three categorization tasks are tested: arrangement task, same-different judgement task, and odd-one-out task.
+Three categorization tasks are tested: arrangement task, same-different judgement task, and odd-one-out task. 
+- Arrangement task: this task asks participants to arrange a set of items in terms of their similarity. The resulted 2-D arrangement serves as the category representation of that category.
+- Same-different judgement task: a pair of items appear side-by-side on the screen. Participants respond whether these two items are from the same category or not. The corresponded reaction time is used to inferred the similarity of the pairs of items.
+- Odd-one-out task: participants are required to choose an item that is the "odd" one out of three items. The probability of choosing as the "odd" one is served as the similarity of the items.
 </span>
 
 <hr style="height:2px;background:grey">
