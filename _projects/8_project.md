@@ -10,7 +10,7 @@ category: work
 # Goal
 
 <span style="font-size:24px">
-To find a reliable representation for category members, this project aims at comparing different categorization tasks. 
+To find a reliable representation for category members, comparing different categorization tasks is crucial. 
 </span>
 
 <hr style="height:2px;background:grey">
