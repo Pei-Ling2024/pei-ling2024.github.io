@@ -39,3 +39,9 @@ Three categorization tasks are tested: arrangement task, same-different judgemen
 <span style="font-size:24px">
 This is an on-going project. Preliminary results showed that the results of the arrangement task and the same-different judgment task are not highly correlated.
 </span>
+
+# Presentations and Publications
+
+<span style="font-size:24px">
+This project has been presented at Vision Science Society Annual Meeting in 2024 and also presented at the proseminar at Psychology Department at University of Illinois at Urbana-Champaign.
+</span>
