@@ -38,7 +38,7 @@ Typicality is a prominent property in human category literature. Typicality is a
 # Method
 
 <span style="font-size:24px">
-The first step we took is to calculate the correlations between the feature spaces from DNNs and human category space. To obtain the human category space, participants performed a same-different categorization task. Using a Multidimensional Scaling (MDS) visualization technique, we constructed the human category space (e.g., see Results) based on the responses to the same/different task. Next, we applied pre-trained neural networks (Zhou et al., 2017) to the same set of natural images and the resulting category representation were constructed by applying MDS on the layer activations. We then use the feature spaces of the neural network model to predict the human category space generated from categorization task.  
+We first extracted the layer activations from DNNs. Here, we chose PlaceNet, which is a CNN model that has the same archeteture as AlexNet but trained on scenes.   
 </span>
 
 <hr style="height:2px;background:grey">
