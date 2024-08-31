@@ -176,7 +176,7 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
-    font-size: 20px;
+    font-size: 24px;
   }
 
   .card-body {
@@ -480,6 +480,7 @@ footer.sticky-bottom {
     border: 1px solid var(--global-divider-color);
 
     .list-group-item {
+      font-size: 20px;
       background-color: inherit;
       border-color: var(--global-divider-color);
 
