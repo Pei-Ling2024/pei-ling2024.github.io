@@ -166,7 +166,7 @@ pre {
 }
 
 figure {
-    margin: 0 0 1rem
+    margin: 0 0 0rem;
 }
 
 img {
@@ -441,12 +441,12 @@ pre code {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     margin-right: -15px;
-    margin-left: -15px;
+    /* margin-left: -15px; */
 }
 
 .no-gutters {
     margin-right: 0;
-    margin-left: 0
+    margin-left: 0;
 }
 
 .no-gutters>.col,.no-gutters>[class*=col-] {
@@ -454,7 +454,7 @@ pre code {
     padding-left: 0
 }
 
-.col,.col-md-10,.col-md-2,.col-md-6,.col-sm,.col-sm-3,.col-sm-4,.col-sm-8,.col-sm-9 {
+.col,.col-md-10,.col-md-2,.col-sm,.col-sm-3,.col-sm-4,.col-sm-8,.col-sm-9 {
     position: relative;
     width: 100%;
     padding-right: 15px;
@@ -514,12 +514,6 @@ pre code {
         -ms-flex:0 0 16.666667%;
         flex: 0 0 16.666667%;
         max-width: 16.666667%
-    }
-
-    .col-md-6 {
-        -ms-flex: 0 0 50%;
-        flex: 0 0 50%;
-        max-width: 50%
     }
 
     .col-md-10 {
@@ -1059,7 +1053,7 @@ a.btn.disabled {
     background-color: #fff;
     background-clip: border-box;
     border: 1px solid rgba(0,0,0,.125);
-    border-radius: .25rem
+    border-radius: .25rem;
 }
 
 .card>hr {
@@ -1092,8 +1086,7 @@ a.btn.disabled {
 }
 
 .card-title {
-    margin-bottom: .75rem;
-    padding-top: 2rem;
+    padding: 20px 0;
 }
 
 .card-text:last-child {
@@ -1113,7 +1106,7 @@ a.btn.disabled {
 
 .card-img {
     border-bottom-right-radius: calc(.25rem - 1px);
-    border-bottom-left-radius: calc(.25rem - 1px)
+    border-bottom-left-radius: calc(.25rem - 1px);
 }
 
 .breadcrumb {
