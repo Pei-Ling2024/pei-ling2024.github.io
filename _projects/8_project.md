@@ -20,22 +20,13 @@ To find a reliable representation for category members, comparing different cate
 <span style="font-size:24px">
 Categorization is a fundamental cognitive process that underlies many cognitive functions (e.g., separating spoiled food, finding your friends). To study how humans categorize items, many tasks have been proposed. Most categorization tasks are based on similarity measures. That is, when deciding whether an item belongs to a category, some psychologists assume that the similarity of the new item to either all the other members of that category (i.e., exemplar theory) or the mean of that category (i.e., prototype theory) is computed. The new item will be categorized as belonging to the category to which it has the highest similarity.
 </span>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/animal.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<span style="font-size:24px">
-Past research on human categorization has mainly focused on artificial objects (e.g., letters) with clear and distinct feature sets. Recently, with improvements in computational power, many studies have shifted to understanding objects in real-life pictures. In the current project, we further extend the exploration to natural scenes (e.g., beach, city, highway) that contain both objects and the relationships among them. 
-</span>
 
 <hr style="height:2px;background:grey">
 
 # Method
 
 <span style="font-size:24px">
-The first step we took is to calculate the correlations between the feature spaces from DNNs and human category space. To obtain the human category space, participants performed a same-different categorization task. Using a Multidimensional Scaling (MDS) visualization technique, we constructed the human category space (e.g., see Results) based on the responses to the same/different task. Next, we applied pre-trained neural networks (Zhou et al., 2017) to the same set of natural images and the resulting category representation were constructed by applying MDS on the layer activations. We then use the feature spaces of the neural network model to predict the human category space generated from categorization task.  
+Three categorization tasks are tested: arrangement task, same-different judgement task, and odd-one-out task.
 </span>
 
 <hr style="height:2px;background:grey">
