@@ -2,7 +2,7 @@
 layout: page
 title: Is there a best categorization task?
 description:
-img: assets/img/9.jpg
+img: assets/img/arrangement.png
 importance: 2
 category: work
 ---
