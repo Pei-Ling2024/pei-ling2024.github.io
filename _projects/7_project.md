@@ -4,7 +4,7 @@ title: Can DNNs reflect scene typicality?
 description:
 img: assets/img/good_beach.png
 importance: 1
-category: work
+category: unpublish
 related_publications: false
 ---
 
