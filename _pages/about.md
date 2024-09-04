@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Illinois at Urbana-Champaign, Department of 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSC00662.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>590 Psychology Bldg</p> 
